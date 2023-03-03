@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91b460fc-6aab-4d4d-89a7-e973bb8114ea" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/arrayPrac/ArrayPrac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/arrayPrac/ArrayPrac.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/input/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/input/Input.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/interfacePrac/InterfacePrac1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/interfacePrac/InterfacePrac1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/maths/BasicMathPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/maths/BasicMathPractice.java" afterDir="false" />
-    </list>
+    <list default="true" id="91b460fc-6aab-4d4d-89a7-e973bb8114ea" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
